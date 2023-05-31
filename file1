@@ -16,4 +16,7 @@ here i'm tring to push using the ssh
 ssh attempt failed 
 
 ssh failed from local VM also
-new trial for ssh the cloning was done without any problem
+
+on 31/05/23
+new trial for ssh the cloning was done without any problem and pushing the commit was aslo successful for me
+now I'm trying the same thing for the aws server
