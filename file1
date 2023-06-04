@@ -20,3 +20,9 @@ ssh failed from local VM also
 on 31/05/23
 new trial for ssh the cloning was done without any problem and pushing the commit was aslo successful for me
 now I'm trying the same thing for the aws server
+
+
+
+well it 04/06/23 
+
+i have also trie th git merge command and how to resolve the merge issue but i think while tring to go from one commit to another i may have been lost the previous commits coz i have checkout to an old commit an its been automatically upated to the GitHub  Sever but as i also prepare notes it not an problem for me to revise it 
