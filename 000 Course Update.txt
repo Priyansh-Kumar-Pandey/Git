@@ -1,0 +1,10 @@
+on 26/06/23
+
+i have completedd till 10:49
+
+
+on 23=7/06/23
+
+i have successfully installed the jfrog onto the sysytem using this https://releases.jfrog.io/artifactory/bintray-artifactory/org/artifactory/oss/jfrog-artifactory-oss/?_gl=1*18feu46*_ga*MzAxMjU0ODUxLjE2ODc4NDM1MjI.*_ga_SQ1NR9VTFJ*MTY4Nzg0MzUyMi4xLjEuMTY4Nzg1Mzg4Ny42MC4wLjA.
+
+website for open source Jfrog
